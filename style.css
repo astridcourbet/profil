@@ -1,0 +1,89 @@
+img{
+	width:25%;
+	height:25%;
+	border-radius:25%;
+	margin-left: 0px;
+  margin-top: 0px;
+}
+
+
+body {
+  background-color:darkblue;
+  color: white;
+  font-family: Trebuchet MS;
+  margin: 0px;
+  font-size: 25px;
+  line-height:1,6 ;
+  font-weight:300 ;
+
+}
+
+.all{
+  width:720px ;
+  margin:40px auto ;
+  }
+
+  .ima{
+    background: white;
+  padding: 40px;
+  box-shadow: 10px 12px 30px black;
+  border-radius: 20px;
+  margin: 20px 0px;
+  text-align: center;
+
+  }
+
+.box{
+  background: white;
+  padding: 40px;
+  box-shadow: 10px 12px 30px black;
+  border-radius: 20px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+h1{
+  font-size: 35px;
+  text-align: center;
+  color:steelblue;
+}
+
+p{
+  text-align: center;
+  text-align: justify;
+  color: black;
+  font-size: 21px;
+}
+
+h2{
+  font-size: 35px;
+  text-transform: uppercase;
+  text-align:justify;
+  text-align: center;
+  color: steelblue;
+}
+
+li{
+  color: black;
+  margin-left: 69px ;
+  padding: 8px;
+  text-align: left;
+}
+
+.mini{
+  background:steelblue ;
+  padding: 15px;
+  border-radius: 20px;
+  margin: 20px 0px;
+  text-align: center
+}
+
+
+.box2{
+  background: white;
+  padding: 40px;
+  box-shadow: 10px 12px 30px whitesmoke;
+  border-radius: 20px;
+  margin: 20px 0px;
+  text-align: center;
+}
